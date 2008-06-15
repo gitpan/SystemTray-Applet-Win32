@@ -1,0 +1,16 @@
+--- #YAML:1.0
+name:                SystemTray-Applet-Win32
+version:             0.01
+abstract:            Windows support for SystemTray::Applet
+license:             ~
+author:              
+    - Peter Sinnott <psinnott@cpan.org>
+generated_by:        ExtUtils::MakeMaker version 6.44
+distribution_type:   module
+requires:     
+    SystemTray::Applet:            0
+    Test::More:                    0
+    Win32::GUI:                    0
+meta-spec:
+    url:     http://module-build.sourceforge.net/META-spec-v1.3.html
+    version: 1.3
